@@ -1,0 +1,2 @@
+need python3.6 and 'nltk'.
+Unzip dialogues_text.zip in the root directory, then run "python pos.py".
